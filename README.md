@@ -1,6 +1,9 @@
+
+![★Always for truth, against falsehood ★(1)](https://github.com/darkstarbdx/cryptid0/assets/122794584/a9586700-8bf6-41f4-b563-fb3166cab60c)
+
 # Cryptid 0.1
 
-⚠️ **Warning: This tool is intended for educational purposes only. Unauthorized use may violate laws and regulations. Use responsibly and with permission.**
+⚠️ **Warning: This tool is intended for educational purposes only. Unauthorized use may violate laws and regulations. Use responsibly and with permission. The Creator is not responsible for any damage caused by misuse of this tool**
 
 Cryptid 0.1 is a Python-based tool designed for educational purposes to simulate DDoS (Distributed Denial of Service) attacks. It allows users to understand the mechanics of DDoS attacks and explore defensive strategies.
 
@@ -48,7 +51,7 @@ Cryptid 0.1 is a Python-based tool designed for educational purposes to simulate
 
 ## Usage
 
-⚠️ **Warning: Ensure you have explicit permission to use this tool on any network or system. Unauthorized usage is illegal and unethical.**
+⚠️ **Warning: Ensure you have explicit permission to use this tool on any network or system. Unauthorized usage is illegal and unethical. The Creator is not responsible for any damage caused by misuse of this tool**
 
 1. **Navigate to the directory:**
    ```bash
@@ -74,7 +77,7 @@ Cryptid 0.1 is a Python-based tool designed for educational purposes to simulate
 
 ## Additional Notes
 
-⚠️ **Warning: This tool should only be used in controlled environments for educational purposes. Be aware of legal implications and use responsibly.**
+⚠️ **Warning: This tool should only be used in controlled environments for educational purposes. Be aware of legal implications and use responsibly. The Creator is not responsible for any damage caused by misuse of this tool**
 
 - **Legal Compliance:** Ensure you have permission to use and test such tools in your environment. Unauthorized use can lead to legal consequences.
   
